@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-own--portfolio-pink?style=for-the-badge&logo=vercel&logoColor=white)](https://own-portfolio-pink.vercel.app/)
+  [![Portfolio](https://meeran-portfolio.antideploy.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Meeran%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/meeran-ahmed-r-6748bb286)
   [![Email](https://img.shields.io/badge/Email-meeranahmed17%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meeranahmed17@gmail.com)
   [![Location](https://img.shields.io/badge/Location-Tamil%20Nadu%2C%20India-238636?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
