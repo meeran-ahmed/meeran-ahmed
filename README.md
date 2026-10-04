@@ -15,12 +15,13 @@
 
 ### 👨‍💻 About Me
 
-Aspiring **Full Stack Web Developer** and **Implementation Executive** with 2 years of combined hands-on experience in production web engineering, SaaS platform configuration, and end-to-end client onboarding.
+Aspiring **Full Stack Web Developer** with strong frontend and backend development skills, hands-on project experience, and a creative problem-solving mindset. I am passionate about building scalable web applications using modern tools and AI.
 
-- 💼 **Current Role:** Implementation Executive at **Pathfinder Enterprises Solutions Pvt. Ltd.** (Remote), managing deployments, application diagnostics, and client onboarding for retail SaaS systems.
-- 🚀 **Full-Stack Engineering:** Building scalable, secure web applications across the MERN stack, Python (Django/FastAPI), and PHP with PostgreSQL/MySQL.
-- 🎓 **Education:** Bachelor of Computer Applications (BCA) — *83% (First Class with Distinction)*, Islamiah College & Diploma in Full Stack Web Development (CSC).
-- 💬 **Languages:** English, Tamil, Urdu, Hindi.
+- 💼 **Implementation Executive:** At Pathfinder Enterprises Solutions Pvt. Ltd., managing the end-to-end implementation, configuration, testing, and deployment of AI-based retail software solutions.
+- 💻 **Freelance Web Developer:** Designing, developing, and deploying custom full-stack web applications, corporate business websites, and scalable e-commerce platforms.
+- 🎓 **Education:** Bachelor of Computer Applications (BCA) — *83% (First Class with Distinction)* from Islamiah College, and a Diploma in Full Stack Web Development (CSC, 80%).
+- 🏆 **Achievements:** 2nd Prize Startup Short Film Contest (Ignite 25), Department Topper HSE, and Proficiency Award at Islamiah College (2024).
+- 💬 **Languages:** English, Hindi, Urdu, Tamil.
 
 ---
 
@@ -36,7 +37,6 @@ Aspiring **Full Stack Web Developer** and **Implementation Executive** with 2 ye
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 #### ⚙️ Backend & Systems Integration
@@ -57,13 +57,24 @@ Aspiring **Full Stack Web Developer** and **Implementation Executive** with 2 ye
   <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-#### 🚀 Tools, Deployment & AI
+#### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+#### 🚀 Tools, AI, Design & Deployment
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
@@ -99,4 +110,3 @@ Aspiring **Full Stack Web Developer** and **Implementation Executive** with 2 ye
 - 🌐 **Portfolio:** [meeran-portfolio.antideploy.app](https://meeran-portfolio.antideploy.app/)
 - 💼 **LinkedIn:** [linkedin.com/in/meeran-ahmed-r-6748bb286](https://linkedin.com/in/meeran-ahmed-r-6748bb286)
 - 📧 **Direct Email:** [meeranahmed17@gmail.com](mailto:meeranahmed17@gmail.com)
-- 
